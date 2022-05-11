@@ -18,7 +18,10 @@ Scratch is a high-level block-based visual programming language and website aime
 
 **[Icy: an open bioimage informatics platform for extended reproducible research](https://www.nature.com/articles/nmeth.2075)**
 
+**[Elyra is a set of AI-centric extensions to JupyterLab Notebooks](https://elyra.readthedocs.io/en/latest/getting_started/overview.html#ai-pipelines-visual-editor)**
+
 **[aflak: Visual programming environment enabling end-to-end provenance management for the analysis of astronomical datasets](https://www.sciencedirect.com/science/article/pii/S2468502X19300154)**
+
 
 **[Auto-generating Google Blockly visual programming elements for peripheral hardward](https://ieeexplore.ieee.org/abstract/document/7311975)**
 
