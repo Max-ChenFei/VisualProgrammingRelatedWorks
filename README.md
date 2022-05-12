@@ -26,6 +26,8 @@ Visual dataflow programming between parameterized objects
 
 **[aflak: Visual programming environment enabling end-to-end provenance management for the analysis of astronomical datasets](https://www.sciencedirect.com/science/article/pii/S2468502X19300154)**
 
+**[TextFlows: A visual programming platform for text mining and natural language processing](https://www.sciencedirect.com/science/article/pii/S0167642316000113?via%3Dihub)**
+
 **[Auto-generating Google Blockly visual programming elements for peripheral hardward](https://ieeexplore.ieee.org/abstract/document/7311975)**
 
 **[Tips for Creating a Block Language with Blockly](https://developers.google.com/blockly/publications/papers/TipsForCreatingABlockLanguage.pdf)**
